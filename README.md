@@ -6,7 +6,7 @@
 
 My name is **Yug Patel**, I am a B.COM student in my 4th semester with a hidden side-love for web development.
 
-My journey began when I started my internship with **Costa Technolab Company**. This got me interested in the field of commerce and by the time I was in my 4th semester, I was exploring various aspects of commerce and experimenting with different projects.
+My journey began when I started my internship with **Costa Technolab Company**. This got me interested in the field of web development and by the time I was in my 4th semester, I was exploring various aspects of web development and experimenting with different projects.
 
 Fast-forward to now, I am dedicating myself to a single project at **Costa Technolab Company**. Here I spend my time learning and growing, thinking of ways to make our projects more user-friendly, rank higher and have better conversion rates. After working on several projects, I wanted a chance of dedicating myself to a single project, and I started working on it with a remarkable team of people making the application a bit better every single day.
 
